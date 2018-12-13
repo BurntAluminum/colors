@@ -1,0 +1,20 @@
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
